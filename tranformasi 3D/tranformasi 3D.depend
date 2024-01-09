@@ -1,9 +1,6 @@
 # depslib dependency file v1.0
-1697030979 source:d:\komgraf\project\hw3\main.cpp
+1704250910 source:d:\komgraf\tranformasi 3d\main.cpp
 	<GL/glut.h>
-	<cmath>
-	<algorithm>
-	<iostream>
 
 1426324528 c:\program files\codeblocks\mingw\include\gl\glut.h
 	"freeglut_std.h"
@@ -18,10 +15,4 @@
 	<GL/gl.h>
 	<GL/glu.h>
 	<stdlib.h>
-
-1697076198 source:d:\komgraf\github\komgraf4707\hw3\main.cpp
-	<GL/glut.h>
-	<cmath>
-	<algorithm>
-	<iostream>
 
